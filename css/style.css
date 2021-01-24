@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&display=swap');
+.snav {
+	background-color: darkturquoise;
+
+	margin-left: -25px;
+	margin-top: -25px;
+	margin-right: -25px;
+	padding-left: 25px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	padding-right: 5px;
+	font-size: 25px;
+	word-spacing: 50px;
+
+}
+
+.bod{
+	margin-left: 25px;
+	margin-right:25px;
+}
+#second {
+	display: inline;
+	
+}
+
+h1 {
+	color: red;
+
+	text-align: center;
+	font-size: 25px;
+}
+p {
+	text-align: justify;
+}
+
+
+
+form>p {
+	
+	color: white;
+	word-spacing: 5px;
+	text-align: end;
+	
+}
+
+footer>p>a {
+	color: blue;
+	font-size: 25px;
+	text-align:right ;
+}
+a{
+	color: white ;
+}
+#center{
+	text-align: center;
+}
